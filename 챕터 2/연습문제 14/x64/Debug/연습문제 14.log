@@ -1,0 +1,10 @@
+﻿  메인.c
+  연습문제 14.c
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 2\연습문제 14\연습문제 14.c(10,10): warning C4098: 'num14': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 2\연습문제 14\연습문제 14.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 15.c
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 2\연습문제 14\연습문제 15.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 16.c
+  연습문제 17.c
+  코드를 생성하고 있습니다...
+  연습문제 14.vcxproj -> C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 2\x64\Debug\연습문제.exe
