@@ -1,0 +1,6 @@
+﻿  연습문제 21.c
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 8\연습문제\연습문제 21.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 23.c
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 8\연습문제\연습문제 23.c(9,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  연습문제.vcxproj -> C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 8\x64\Debug\연습문제.exe
