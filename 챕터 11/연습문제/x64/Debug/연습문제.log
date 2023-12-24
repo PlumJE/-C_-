@@ -1,0 +1,13 @@
+﻿  연습문제 21.c
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(18,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(24,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(39,43): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(39,43): warning C4113: 'int (__cdecl *)(FONT *,FONT *)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(45,73): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(45,73): warning C4113: 'int (__cdecl *)(FONT *,FONT *)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(43,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\연습문제\연습문제 21.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제.vcxproj -> C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 11\x64\Debug\연습문제.exe

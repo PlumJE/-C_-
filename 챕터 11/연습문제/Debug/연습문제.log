@@ -1,0 +1,39 @@
+﻿  메인.c
+  연습문제 17.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 17.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 18.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 18.c(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 18.c(35,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 18.c(43,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 18.c(44,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 18.c(45,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 19.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 19.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 19.c(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 19.c(23,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 19.c(26,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 19.c(27,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 20.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 20.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 20.c(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 20.c(25,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 20.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 20.c(29,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 20.c(34,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제 21.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(18,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(24,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(46,43): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(46,43): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(46,43): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(52,64): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(52,64): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(52,64): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(52,65): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(50,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\연습문제\연습문제 21.c(56,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  연습문제.vcxproj -> C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 11\Debug\연습문제.exe
