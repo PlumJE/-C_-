@@ -1,0 +1,5 @@
+﻿  연습문제 16.c
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 13\연습문제\연습문제 16.c(35,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 13\연습문제\연습문제 16.c(7,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 13\연습문제\연습문제 16.c(9,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제.vcxproj -> C:\Users\lje64\Desktop\개념콕콕C 실전과제&연습문제\챕터 13\Debug\연습문제.exe
