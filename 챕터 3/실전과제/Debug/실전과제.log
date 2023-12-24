@@ -1,0 +1,5 @@
+﻿  실전과제.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 3\실전과제\실전과제.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 3\실전과제\실전과제.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 3\실전과제\실전과제.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  실전과제.vcxproj -> C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 3\Debug\실전과제.exe
