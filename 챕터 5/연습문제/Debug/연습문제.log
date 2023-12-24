@@ -1,0 +1,6 @@
+﻿  연습문제 21.c
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 5\연습문제\연습문제 21.c(10,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 5\연습문제\연습문제 21.c(18,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 5\연습문제\연습문제 21.c(29,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 5\연습문제\연습문제 21.c(46,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  연습문제.vcxproj -> C:\Users\이형철\Desktop\개념콕콕C프로그래밍 연습문제\챕터 5\Debug\연습문제.exe
